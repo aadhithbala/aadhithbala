@@ -5,7 +5,7 @@ An aspiring web developer diving into the world of HTML, CSS, JavaScript, and Re
 - 🌍  I'm based in Chennai, India
 - ✉️  You can contact me at [aadhi66613@gmail.com](mailto:aadhi66613@gmail.com)
 - 🚀  I'm currently working on [TheCatLounge](http://aadhithbala.github.io/TheCatLounge)
-- 🧠 I'm learning Javascript and React
+- 🧠  I'm learning Javascript and React
 
 ### Tools i use
 
