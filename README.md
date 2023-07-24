@@ -1,10 +1,13 @@
-# Hi 👋 My name is Aadhith
+# Hi, My name is Aadhith
 
-- 🌍  I'm based in India
+An aspiring web developer diving into the world of HTML, CSS, JavaScript, and React to build awesome projects. I love arch and enjoy customizing my desktop to create beautiful and functional setups.
+
+- 🌍  I'm based in Chennai, India
 - ✉️  You can contact me at [aadhi66613@gmail.com](mailto:aadhi66613@gmail.com)
 - 🚀  I'm currently working on [TheCatLounge](http://aadhithbala.github.io/TheCatLounge)
+- 🧠 I'm learning Javascript and React
 
-### Skills
+### Tools i use
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -19,12 +22,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/aadhithbala"><img src="https://github-readme-stats.vercel.app/api?username=aadhithbala&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aadhithbala's GitHub stats" /></a>
-
-<a href="http://www.github.com/aadhithbala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhithbala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/aadhithbala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhithbala&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/aadhithbala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhithbala&stroke=ffffff&background=1c1917&ring=FFBF00&fire=FFBF00&currStreakNum=ffffff&currStreakLabel=FFBF00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
