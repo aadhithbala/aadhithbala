@@ -3,7 +3,6 @@
 An aspiring web developer diving into the world of HTML, CSS, JavaScript, and React to build awesome projects. I love arch and enjoy customizing my desktop to create beautiful and functional setups.
 
 - 🌍  I'm based in Chennai, India
-- ✉️  You can contact me at [aadhi66613@gmail.com](mailto:aadhi66613@gmail.com)
 - 🚀  I'm currently working on [TheCatLounge](http://aadhithbala.github.io/TheCatLounge)
 - 🧠  I'm learning Javascript and React
 
