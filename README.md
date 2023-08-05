@@ -1,10 +1,10 @@
-# Hi, My name is Aadhith
+# Hi 👋, My name is Aadhith
 
 An aspiring web developer diving into the world of HTML, CSS, JavaScript, and React to build awesome projects. I love arch and enjoy customizing my desktop to create beautiful and functional setups.
 
-- 🌍  I'm based in Chennai, India
-- 🚀  I'm currently working on [TheCatLounge](http://aadhithbala.github.io/TheCatLounge)
-- 🧠  I'm learning Javascript and React
+- I'm based in Chennai, India
+- I'm currently working on [TheCatLounge](http://aadhithbala.github.io/TheCatLounge)
+- I'm learning Javascript and React
 
 ### Tools i use
 
