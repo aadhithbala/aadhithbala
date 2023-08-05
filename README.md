@@ -1,4 +1,4 @@
-# Hi 👋, My name is Aadhith
+# Hi, My name is Aadhith
 
 An aspiring web developer diving into the world of HTML, CSS, JavaScript, and React to build awesome projects. I love arch and enjoy customizing my desktop to create beautiful and functional setups.
 
