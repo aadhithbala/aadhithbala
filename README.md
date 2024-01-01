@@ -1,10 +1,9 @@
 # Hi, My name is Aadhith
 
-An aspiring web developer diving into the world of HTML, CSS, JavaScript, and React to build awesome projects. I love arch and enjoy customizing my desktop to create beautiful and functional setups.
+Venturing into DevOps, I'm immersing myself in the realm of infrastructure as code, Docker, Terraform, and Python. I love arch and enjoy customizing my desktop to create beautiful and functional setups.
 
 - I'm based in Chennai, India
-- I'm currently working on [TheCatLounge](http://aadhithbala.github.io/TheCatLounge)
-- I'm learning Javascript and React
+- I'm currently working on [Homelab](http://aadhithbala.github.io/TheCatLounge)
 
 ### Tools i use
 
